@@ -1,1 +1,1 @@
-# scroll
+This is a task of Coursework 1 for Web Technology Module. The project is purely designed with HTML, CSS and JavaScript language. The website name is Study∞, and it provides online courses for everyone in every sphere such as, programming, languages, mathematics, etc. The website has 5 web pages: Home,
